@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sasha/static/css/main.073c9b0a.css",
+    "main.js": "/sasha/static/js/main.77690343.js",
+    "static/js/787.f0cd48fe.chunk.js": "/sasha/static/js/787.f0cd48fe.chunk.js",
+    "index.html": "/sasha/index.html",
+    "main.073c9b0a.css.map": "/sasha/static/css/main.073c9b0a.css.map",
+    "main.77690343.js.map": "/sasha/static/js/main.77690343.js.map",
+    "787.f0cd48fe.chunk.js.map": "/sasha/static/js/787.f0cd48fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.77690343.js"
+  ]
+}
