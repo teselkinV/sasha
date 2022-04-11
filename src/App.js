@@ -1,22 +1,19 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <iframe
+          src="https://giphy.com/embed/5i7umUqAOYYEw"
+          width="480"
+          height="327"
+          frameBorder="0"
+          className="giphy-embed"
+          allowFullScreen
+        ></iframe>
+
+        <p>мой сайт</p>
       </header>
     </div>
   );
